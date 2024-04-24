@@ -1,2 +1,3 @@
 # e-learning
-This is Comprehensive learning Repository , made using React , Node , Mongodb etc
+Author Bijay Mishra
+Comprehensive learning Repository is a web Application. Used Softwares React , Node , Mongodb etc
